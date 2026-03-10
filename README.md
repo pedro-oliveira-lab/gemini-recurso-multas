@@ -1,4 +1,4 @@
-#  Gerador de Recurso de Multas com IA (Gemini 2.0)
+#  Gerador de Recurso de Multas com IA (Gemini 2.5 Flash)
 
 Este projeto automatiza a análise de notificações de autuação e a geração de defesas prévias fundamentadas no Código de Trânsito Brasileiro (CTB).
 
